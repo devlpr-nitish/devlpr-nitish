@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devlpr-nitish" alt="devlpr-nitish" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/devlprnitish" target="blank"><img src="https://img.shields.io/twitter/follow/devlprnitish?logo=twitter&style=for-the-badge" alt="devlprnitish" /></a> </p>
-<img align="right" width="600" height="400" alt="coding since yesterday night" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" >
+<img align="right" width="400" height="400" alt="coding since yesterday night" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" >
 
 - 👀 My Portfolio [portfolio](https://devlprnitish-one.vercel.app/)
 
