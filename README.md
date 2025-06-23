@@ -11,9 +11,8 @@
   
 </div>
 
----
 
-## 🚀 The Human Behind The Code
+##  The Human Behind The Code
 
 ```javascript
 const nitish = {
@@ -34,7 +33,7 @@ const nitish = {
 
 <div align="center">
 
-### 🎯 Quick Access Hub
+### Quick Access Hub
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://devlprnitish-one.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1A0RG78ppWEOz0q8x6E_AO7ZxocIs_Cer/view?usp=sharing)
@@ -42,13 +41,12 @@ const nitish = {
 
 </div>
 
----
 
-## ⚔️ My Coding Weapons of Choice
+##  My Coding Weapons of Choice
 
 <div align="center">
 
-### 🎨 Pretty Things That Make Users Happy
+### FRONTEND
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -58,7 +56,7 @@ const nitish = {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ The Magic Behind The Curtain
+### BACKEND
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -67,21 +65,21 @@ const nitish = {
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🗄️ Where All The Secrets Are Stored
+### DATABASE
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### ☁️ Making Servers Behave Like Good Pets
+### DEVOPS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🛠️ My Developer Survival Kit
+### Developer Survival Kit
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -89,7 +87,7 @@ const nitish = {
 
 </div>
 
----
+
 
 
 ## 📊 My GitHub Story in Numbers
@@ -101,9 +99,6 @@ const nitish = {
 
 ### 💻 What I Speak Fluently (In Code)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlpr-nitish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-### 🏆 My Digital Trophy Cabinet
-![Trophy](https://github-profile-trophy.vercel.app/?username=devlpr-nitish&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ### 📊 The Rainbow Of My Coding Life
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devlpr-nitish&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
@@ -134,9 +129,8 @@ const nitish = {
 
 </div>
 
----
 
-## 🌐 Let's Be Internet Friends!
+## 🌐 Let's Connect!
 
 <div align="center">
 
@@ -147,27 +141,11 @@ const nitish = {
 
 </div>
 
----
 
 <div align="center">
-
-## 💭 My Daily Dose of Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-### 🎖️ "Consistency is greater than intensity"
-
----
-
-<img src="https://i.pinimg.com/originals/07/15/8f/07158ff0c3cf5ecb72ec6dd39241aeb0.gif" width="200" height="200" alt="Coding GIF" />
-
----
-
+  
 **⭐ If you find my work interesting, don't forget to star my repositories!**
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
-</div>
 
