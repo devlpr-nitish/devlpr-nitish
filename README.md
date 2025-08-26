@@ -11,18 +11,15 @@
   
 </div>
 
-
-##  The Human Behind The Code
-
 ```javascript
 const nitish = {
     role: "Full Stack Developer",
     location: "Earth",
-    currentFocus: ["Rust", "Web3", "System Design"],
+    currentFocus: ["Go", "Devops", "DSA", "System Design"],
     techStack: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "Java", "Python"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        frontend: ["React", "Vue", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Go", "Laravel", "Express.js", "Python"],
+        databases: ["MongoDB","SQL", "PostgreSQL", "Redis"],
         devOps: ["Docker", "Kubernetes", "AWS", "Nginx"],
         tools: ["Git", "Postman", "Linux", "Bash"]
     },
@@ -33,8 +30,6 @@ const nitish = {
 
 <div align="center">
 
-### Quick Access Hub
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://devlprnitish-one.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1A0RG78ppWEOz0q8x6E_AO7ZxocIs_Cer/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlprnitish@gmail.com)
@@ -42,84 +37,19 @@ const nitish = {
 </div>
 
 
-##  My Coding Weapons of Choice
+<div align="left">
 
-<div align="center">
-
-### FRONTEND
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### BACKEND
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-### DATABASE
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### DEVOPS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Developer Survival Kit
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devlpr-nitish&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
+  <div align="center">
+    
+  ![LeetCode Stats](https://leetcode.card.workers.dev/devlprnitish?theme=dark&font=baloo&extension=null)
+
+  </div>
 
 
-
-## 📊 My GitHub Story in Numbers
-
-<div align="center">
-
-### 📈 The Proof Is In The Code
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlpr-nitish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-### 💻 What I Speak Fluently (In Code)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlpr-nitish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-### 📊 The Rainbow Of My Coding Life
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devlpr-nitish&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
-
-### 🧩 LeetCode Stats
-<div align="center">
-  
-![LeetCode Stats](https://leetcode.card.workers.dev/devlprnitish?theme=dark&font=baloo&extension=null)
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### 💡 Problem Solving Journey
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevlprnitish&logo=leetcode&logoColor=yellow)
-
-</td>
-<td align="center">
-
-### 🏆 Current Ranking
-![LeetCode Ranking](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevlprnitish&logo=leetcode&logoColor=yellow)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-## 🌐 Let's Connect!
 
 <div align="center">
 
@@ -133,7 +63,7 @@ const nitish = {
 
 <div align="center">
   
-**⭐ If you find my work interesting, don't forget to star my repositories!**
+**You r here means, you find my work meaningful or u r just stalking me, hmm..!**
 
 </div>
 
