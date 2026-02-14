@@ -1,16 +1,4 @@
-# 🏜️ Hey there, I'm **NITISH**
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DevOps+Engineer;Rust+%26+Web3+Learner;Problem+Solver)
-  
-  <img src="https://i.pinimg.com/originals/6e/d5/d1/6ed5d17edc7859c15e4ba8b83186f3c6.gif" alt="Coding Animation" width="400" />
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=devlpr-nitish&label=Profile%20Views&color=00d4ff&style=for-the-badge)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/devlprnitish?logo=twitter&style=for-the-badge&color=1DA1F2)](https://x.com/devlprnitish)
-  
-</div>
-
+# 🏜️ Hey there, I'm **Nitish**
 ```javascript
 const nitish = {
     role: "Full Stack Developer",
@@ -30,8 +18,7 @@ const nitish = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://devlprnitish-one.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1A0RG78ppWEOz0q8x6E_AO7ZxocIs_Cer/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://devlprnitish-me.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlprnitish@gmail.com)
 
 </div>
