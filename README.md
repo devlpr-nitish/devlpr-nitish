@@ -2,8 +2,6 @@
 
 `full stack` · `go` · `devops` · `system design`
 
----
-
 ### ⌥ stack
 
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
@@ -17,7 +15,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
 
----
+
 
 ### ▦ projects
 
@@ -29,10 +27,9 @@
 
 **[daily thought](https://daily-thought-silk.vercel.app)** — anonymous college community · thoughts that vanish after 24h · mern
 
----
+
 
 *debugging is like being a detective in a crime movie where you're also the murderer*
 
----
 
-[🌐 portfolio](https://www.devlprnitish.tech) · [linkedin](https://linkedin.com/in/devlpr-nitish) · [leetcode](https://leetcode.com/devlprnitish) · [twitter](https://twitter.com/devlprnitish) · [email](mailto:devlprnitish@gmail.com)
+[portfolio](https://www.devlprnitish.tech) · [linkedin](https://linkedin.com/in/devlpr-nitish) · [leetcode](https://leetcode.com/devlprnitish) · [twitter](https://twitter.com/devlprnitish) · [email](mailto:devlprnitish@gmail.com)
