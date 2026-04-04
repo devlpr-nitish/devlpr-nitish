@@ -19,7 +19,7 @@
 
 ### ▦ projects
 
-**[nexus](https://appointment-booking-next.vercel.app)** — book 1-on-1 sessions with verified experts · roles for users, experts & admins
+**[nexus](https://appointment-booking-next.vercel.app)** — book 1:1 sessions with verified experts · roles for users, experts & admins
 
 **[codelibra](https://codelibra.vercel.app)** — track leetcode contests, compare profiles & get a fair coding score
 
