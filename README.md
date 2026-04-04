@@ -23,9 +23,9 @@
 
 **[codelibra](https://codelibra.vercel.app)** — track leetcode contests, compare profiles & get a fair coding score
 
-**[Brain Match](https://brain-match-ten.vercel.app/)** - Real-time two-player hint-and-guess duel game.
+**[brain match](https://brain-match-ten.vercel.app/)** - Real-time two-player hint-and-guess duel game.
 
-**[pre-export](https://pre-export.vercel.app)** — open source · convert dsa sheets to excel, markdown, notion or csv
+**[pre export](https://pre-export.vercel.app)** — open source · convert dsa sheets to excel, markdown, notion or csv
 
 **[daily thought](https://daily-thought-silk.vercel.app)** — anonymous college community · thoughts that vanish after 24h · mern
 
