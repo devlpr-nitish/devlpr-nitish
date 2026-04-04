@@ -27,6 +27,7 @@
 
 **[daily thought](https://daily-thought-silk.vercel.app)** — anonymous college community · thoughts that vanish after 24h · mern
 
+**[Brain Match](https://brain-match-ten.vercel.app/)** - Real-time two-player hint-and-guess duel game.
 
 
 *debugging is like being a detective in a crime movie where you're also the murderer*
