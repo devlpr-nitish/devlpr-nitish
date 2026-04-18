@@ -4,11 +4,15 @@
 
 ### ⌥ stack
 
+![Frappe](https://img.shields.io/badge/Frappe-black?style=flat-square&logo=frappe)
+![ERPNext](https://img.shields.io/badge/ERPNext-black?style=flat-square&logo=erpnext)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
