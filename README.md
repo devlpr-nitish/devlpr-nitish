@@ -1,6 +1,6 @@
 <h1>nitish</h1>
 
-`full stack` · `go` · `devops` · `system design`
+`full stack` · `frappe`· `go` · `devops` · `system design`
 
 ### ⌥ stack
 
@@ -23,11 +23,16 @@
 
 ### ▦ projects
 
-**[nexus](https://appointment-booking-next.vercel.app)** — book 1:1 sessions with verified experts · roles for users, experts & admins
 
 **[codelibra](https://codelibra.vercel.app)** — track leetcode contests, compare profiles & get a fair coding score
 
-**[brain match](https://brain-match-ten.vercel.app/)** - Real-time two-player hint-and-guess duel game.
+**[paper](https://github.com/devlpr-nitish/paper)** — knowledge management & documentation platform for Frappe · collaborative notes, docs & workspace organization
+
+**[frappe theme](https://github.com/devlpr-nitish/frappe-theme)** — open source Frappe app · GUI-driven branding & theme customization for Frappe Desk with live visual settings
+
+**[nexus](https://appointment-booking-next.vercel.app)** — book 1:1 sessions with verified experts · roles for users, experts & admins
+
+**[brain match](https://brain-match-ten.vercel.app/)** — real-time two-player hint-and-guess duel game
 
 **[pre export](https://pre-export.vercel.app)** — open source · convert dsa sheets to excel, markdown, notion or csv
 
