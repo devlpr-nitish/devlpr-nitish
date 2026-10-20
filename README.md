@@ -23,6 +23,8 @@
 
 ### ▦ projects
 
+**[Frapkeys](https://github.com/devlpr-nitish/frapkeys)** - Frapkeys - Navigate Frappe, ERPNext or any other module at the speed of thought.
+
 **[Frappin](https://github.com/devlpr-nitish/frappin)** - Frappin a smart, user-specific clipboard manager for Frappe and ERPNext that lets you save, search, organize, and reuse copied content instantly.
 
 **[codelibra](https://codelibra.vercel.app)** — track leetcode contests, compare profiles & get a fair coding score
